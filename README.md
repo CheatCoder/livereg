@@ -1,6 +1,6 @@
 # livereg
 
-[![GoDoc](https://godoc.org/github.com/CheatCoder/livereg?status.svg)](https://godoc.org/github.com/CheatCoder/livereg)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/cheatcoder/livereg)](https://pkg.go.dev/github.com/cheatcoder/livereg)
 
 Test the Regexp with live data and work with the found items (ESC key to leave the regexp input) after found the right regexp
 
