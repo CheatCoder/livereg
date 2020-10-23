@@ -2,7 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/CheatCoder/livereg?status.svg)](https://godoc.org/github.com/CheatCoder/livereg)
 
-Test the Regexp with live data and work with the found items after found the right regexp
+Test the Regexp with live data and work with the found items (ESC key to leave the regexp input) after found the right regexp
 
 ```
  package main
